@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'QiQi-OvO',
 
   // open graph metadata (optional)
-  description: 'QiQi's Blog',
+  description: 'QiQi Blog',
 
   // social usernames (optional)
   twitter: '',
